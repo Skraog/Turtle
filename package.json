@@ -1,0 +1,28 @@
+{
+  "name": "turtle",
+  "version": "0.0.1",
+  "description": "Discord bot",
+  "main": "turtle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/rest": "^0.5.0",
+    "@discordjs/voice": "^0.10.0",
+    "discord.js": "^13.8.1",
+    "distube": "^3.3.4",
+    "dotenv": "^16.0.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.0.2",
+    "fs": "^0.0.1-security",
+    "music-lyrics": "^2.0.2",
+    "python": "^0.0.4",
+    "sodium": "^3.0.2",
+    "ytdl-core": "^4.11.0",
+    "ytly": "^1.0.9",
+    "ytsr": "^3.8.0"
+  }
+}
